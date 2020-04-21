@@ -99,7 +99,6 @@ define Build/Configure
 			-no-iconv \
 			-no-pch \
 			-no-rpath \
-			-no-qml-debug \
 			-no-strip \
 			-no-cups \
 			-no-dbus \
